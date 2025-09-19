@@ -28,7 +28,6 @@ I use this space to showcase my continuous learning journey and technical expert
 
 ## 🔗 Links  
 - 🌐 [LinkedIn](linkedin.com/in/jnana-kumar-kommula-aa50551b0)  
-- 💼 [Portfolio / Blog (if any)](https://yourwebsite.com)  
-- 📧 Email: thisisjnan@gmail.com  
+
 
 ---
