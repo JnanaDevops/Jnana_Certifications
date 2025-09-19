@@ -31,3 +31,11 @@ I use this space to showcase my continuous learning journey and technical expert
 
 
 ---
+# 🎓 Jnana Kumar Kommula - Certifications Portfolio  
+
+![Jenkins](https://img.shields.io/badge/Jenkins-Certified-blue)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Troubleshooting-green)  
+![GitOps](https://img.shields.io/badge/GitOps-ArgoCD-orange)  
+
+---
+
